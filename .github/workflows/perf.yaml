@@ -24,6 +24,7 @@ jobs:
     - run: npm install -g yarn
     - run: yarn
     - run: free -h
+    - run: time npx tsc
     - run: node src/test.js > logs/perf.txt
     - run: git config user.name "Kus";
       if: always()
