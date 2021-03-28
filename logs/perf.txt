@@ -1,0 +1,88 @@
+Now visiting https://staplespromo.com
+{ safeAddress: 'httpsstaplespromocom' }
+Now visiting https://staplespromo.com/
+{ safeAddress: 'httpsstaplespromocom' }
+{
+  metrics: {
+    data: {
+      name: 'https://staplespromo.com/',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2007.0649999999973,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0.23499999998932708,
+      domainLookupStart: 0.23499999998932708,
+      domainLookupEnd: 0.23499999998932708,
+      connectStart: 0.23499999998932708,
+      connectEnd: 0.23499999998932708,
+      secureConnectionStart: 0.23499999998932708,
+      requestStart: 1.3649999999927331,
+      responseStart: 87.55499999999472,
+      responseEnd: 242.56499999999903,
+      transferSize: 99371,
+      encodedBodySize: 98625,
+      decodedBodySize: 98625,
+      serverTiming: [],
+      workerTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 1654.254999999992,
+      domContentLoadedEventStart: 1675.6599999999935,
+      domContentLoadedEventEnd: 1679.2749999999899,
+      domComplete: 1978.1399999999962,
+      loadEventStart: 1978.9049999999975,
+      loadEventEnd: 2007.0649999999973,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://staplespromo.com/ was 2.027 seconds
+Now visiting https://staplespromo.com/help
+{ safeAddress: 'httpsstaplespromocomhelp' }
+{
+  metrics: {
+    data: {
+      name: 'https://staplespromo.com/help',
+      entryType: 'navigation',
+      startTime: 0,
+      duration: 2529.155000000003,
+      initiatorType: 'navigation',
+      nextHopProtocol: 'http/1.1',
+      workerStart: 0,
+      redirectStart: 0,
+      redirectEnd: 0,
+      fetchStart: 0.2999999999957481,
+      domainLookupStart: 0.2999999999957481,
+      domainLookupEnd: 0.2999999999957481,
+      connectStart: 0.2999999999957481,
+      connectEnd: 0.2999999999957481,
+      secureConnectionStart: 0.2999999999957481,
+      requestStart: 1.2849999999957618,
+      responseStart: 181.68000000000006,
+      responseEnd: 577.1950000000032,
+      transferSize: 88098,
+      encodedBodySize: 87352,
+      decodedBodySize: 87352,
+      serverTiming: [],
+      workerTiming: [],
+      unloadEventStart: 0,
+      unloadEventEnd: 0,
+      domInteractive: 2211.6049999999914,
+      domContentLoadedEventStart: 2238.550000000004,
+      domContentLoadedEventEnd: 2242.12,
+      domComplete: 2508.579999999995,
+      loadEventStart: 2509.9699999999957,
+      loadEventEnd: 2529.155000000003,
+      type: 'navigate',
+      redirectCount: 0
+    }
+  }
+}
+Total load time for https://staplespromo.com/help was 2.54 seconds
+Now visiting https://staplespromo.com/user/dashboard
+{ safeAddress: 'mocomuserdashbo-1616891875635' }
