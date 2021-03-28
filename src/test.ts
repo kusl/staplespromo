@@ -3,7 +3,7 @@ import { Page } from "playwright";
 const sentinel = "https://staplespromo.com";
 const visited: string[] = [];
 const threshold_in_seconds = 2;
-const max_capacity = 720;
+const max_capacity = 3;
 
 const { chromium } = require('playwright');
 (async () => {
